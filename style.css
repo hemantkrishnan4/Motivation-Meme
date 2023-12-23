@@ -1,0 +1,21 @@
+html{
+    background-color: black;
+    text-align: center;
+}
+#img2{
+    border: 5px solid white;
+    width: 100%;
+}
+#text1{
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    text-transform: capitalize;
+}
+#text2{
+    color: white;
+}
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+}
